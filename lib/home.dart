@@ -87,6 +87,7 @@ class _HomeState extends State<Home> {
               ],
             ),
           ),
+                      height: MediaQuery.of(context).size.height / 4,
         ),
       ),
     );
